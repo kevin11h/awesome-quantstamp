@@ -1,3 +1,6 @@
+# Quantstamp Whitepaper ~2017
+http://web.archive.org/web/20171105084603/https://quantstamp.com/wp-content/uploads/2017/09/Quantstamp-Whitepaper.pdf
+
 # Awesome Quantstamp
 
 
